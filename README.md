@@ -18,16 +18,16 @@ details, trainer information, and a contact interface.
 ## Project Structure
 
 Underground-Fitness-Web-Application/
-'├── Images/          # Image files
-'├── PHPs/            # PHP backend files
-'├── Script/          # JavaScript files
-├── Styles/          # CSS stylesheets
-├── contact.php      # Contact page
-├── index.php        # Homepage
-├── login.php        # Login page
-├── readmore.php     # Read more page
-├── signup.php       # Registration page
-└── user.php         # User dashboard
+`├── Images/          # Image files
+`├── PHPs/            # PHP backend files
+`├── Script/          # JavaScript files
+`├── Styles/          # CSS stylesheets
+`├── contact.php      # Contact page
+`├── index.php        # Homepage
+`├── login.php        # Login page
+`├── readmore.php     # Read more page
+`├── signup.php       # Registration page
+`└── user.php         # User dashboard
 
 ## Technologies
 
