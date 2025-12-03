@@ -20,14 +20,14 @@ details, trainer information, and a contact interface.
 Underground-Fitness-Web-Application/
 1. Images/          - Image files
 2. PHPs/            - PHP backend files
-3. Script/          # JavaScript files
-4. Styles/          # CSS stylesheets
-5. contact.php      # Contact page
-6. index.php        # Homepage
-7. login.php        # Login page
-8. readmore.php     # Read more page
-9. signup.php       # Registration page
-10. user.php         # User dashboard
+3. Script/          - JavaScript files
+4. Styles/          - CSS stylesheets
+5. contact.php      - Contact page
+6. index.php        - Homepage
+7. login.php        - Login page
+8. readmore.php     - Read more page
+9. signup.php       - Registration page
+10. user.php        - User dashboard
 
 ## Technologies
 
