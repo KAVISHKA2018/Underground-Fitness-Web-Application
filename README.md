@@ -38,7 +38,7 @@ Underground-Fitness-Web-Application/
     -  Bootstrap (for responsive UI)
     -  jQuery (for enhanced interactivity)
     -  Font Awesome (for icons)
--  Server: Apache/Nginx
+-  Server: Apache
 
 ## Setup Instructions
 
@@ -54,6 +54,4 @@ Underground-Fitness-Web-Application/
 6.  Visit:\
     `http://localhost/underground_fitness/index.php`
 
-## Credits
 
-Developed for learning and project demonstration purposes.
