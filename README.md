@@ -52,4 +52,8 @@ Underground-Fitness-Web-Application/
 6.  Visit:\
     `http://localhost/underground_fitness/index.php`
 
+## Live Demo
+
+Hosted on ProFreeHost: http://undergroundfitness.liveblog365.com/
+
 
