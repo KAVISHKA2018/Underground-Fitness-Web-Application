@@ -45,10 +45,10 @@ Underground-Fitness-Web-Application/
     -   **XAMPP:** `htdocs/underground_fitness`
 3.  Import the database into phpMyAdmin.
 4.  Update database connection details inside relevant PHP files.
-    $host = 'localhost';
-    $dbname = 'underground_fitness';
-    $username = 'your_username';
-    $password = 'your_password';
+    -     $host = 'localhost';
+    -     $dbname = 'underground_fitness';
+    -      $username = 'your_username';
+    -       $password = 'your_password';
 6.  Visit:\
     `http://localhost/underground_fitness/index.php`
 
