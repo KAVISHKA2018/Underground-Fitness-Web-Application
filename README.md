@@ -36,9 +36,7 @@ Underground-Fitness-Web-Application/
 -  Frontend: HTML5, CSS3, JavaScript
 -  Framework/Libraries:
     -  Bootstrap (for responsive UI)
-    -  jQuery (for enhanced interactivity)
     -  Font Awesome (for icons)
--  Server: Apache
 
 ## Setup Instructions
 
