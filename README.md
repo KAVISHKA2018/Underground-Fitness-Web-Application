@@ -47,8 +47,8 @@ Underground-Fitness-Web-Application/
 4.  Update database connection details inside relevant PHP files.
     -     $host = 'localhost';
     -     $dbname = 'underground_fitness';
-    -      $username = 'your_username';
-    -       $password = 'your_password';
+    -     $username = 'your_username';
+    -     $password = 'your_password';
 6.  Visit:\
     `http://localhost/underground_fitness/index.php`
 
